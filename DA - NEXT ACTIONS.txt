@@ -1,0 +1,125 @@
+
+NEXT ACTION
+
+NEXT PLAYTEST GOAL
+Create a first episode that introduces new players to this world and the game mechanisms.
+	No golems!
+	Variable within planned parameters, so as to be interesting to play even if you know the plot.
+	Threats must escalate as sub-objectives are met.
+	
+REPRINTS:
+
+CRITICAL ISSUES:
+Development Tools
+	Move all game components to Component.Studio
+		Make the game components the right physical size for their objects
+Usability
+	How will the players know when and how to retrieve new Field Guide pages? And how will they get new cards to add to the game?
+		Put the new cards in the Field Guide page sleeves for now.
+	Players are still having trouble understanding how to evaluate creature actions.
+		"Each [creature] takes 3 actions. For each action, select the first [option?] that matches the situation."
+		Numerals imply the options should be performed in sequence instead of selecting the first one that applies.
+			If numerals are removed, remove them from guard module cards too.
+	Semi-blind playtesting (Players take over AFTER setup)
+	Use "If ∆>=X" notation?
+	Reword "hidden" text to indicate that there's an extra targeting step that may cause the action to fail.
+		Provide a "spot hidden" die instead? Roll at a penalty for a creature in a connected area, instead of autofail?
+	Create an FAQ for interactions and edge cases
+	Use the word "target" consistently
+	Provide players with "action" tokens so they can keep track of their remaining actions for the turn.
+Immersion
+	Characters - IF TIME PERMITS
+		Give players characters with distinct starting abilities.
+		Change player colors to named characters (still have to associate with colored pawns, though)
+		Change card and component colors to differ from player colors
+		Provide tool/weapon objects, like the hunter's rifle?	
+	Make each area special in some way, with more engaging names
+		Add more areas!
+	Add marginalia to field notes from captain and engineer
+	Add pictures and flavor text to cards
+	
+IMPORTANT ISSUES:
+Put "Protospiel Tested" logo on docs and box and site
+Future Episodes
+	Replace the A/B C/D E/F clue descriptors with area qualities (large/small, etc.)
+	Security station provides chance to remove a Tick card from the clock deck
+	Connection station allows user to widen a connection
+	Dormant golems must provide the Board action.
+	Each episode should advance the story of the Argo.
+	Each episode should introduce a new threat or mechanism.
+	Use Dungeon World style "fronts" to set up a series of scenarios
+		Should there be packs of components specific to each front, which can be combined for different randomized adventures?
+	Look at Warframe for mission ideas
+		Missions where you work _with_ AI units.
+	Document creature and threat behavior on scenario reference sheets, so they can vary between scenarios.
+	Create more clue areas than needed, and randomly select a subset for each applicable episode
+	Each episode needs to scale threats as the players make progress toward their objective but also somewhat due to passage of time
+		Think of Grim Portents from Dungeon World
+		Finding clues, as in the rescue scenario, is just one way to do this
+		What would it mean to add a "tock" card to the clock deck?
+	Find dormant module-less golems in course of play
+		At random?
+		Special Armory area?
+		To follow the Argo's crew, they must get past a hazard that they cannot pass without being in a golem.
+			Flooded areas?
+			Lava?
+			Security door?
+Rules text should be more friendly and inviting
+	Consider having Robin Drake edit
+Should this be a roleplaying board game, with customizable characters, and bonds to things that generate XP and character growth?
+Prepare a demo scenario for showing to publishers
+Adhesive Eructor isn't very appealing to players
+	Remove Stuck marker on 4+?
+	Maybe the Eructor creates (goo? mucilage?) objects / markers, which are documented in the Field Guide.
+Allow energy to be paid by any energy source in the area - your golem, ally's golem, energy station - even if you aren't in a golem
+Be consistent about replacing lava markers with rubble
+
+DEVELOPMENT ISSUES:
+Test 2-player game at different difficulties: changing Tick ratios seems like it will be a HUGE swing with only 2 player cards.
+Need 8 Tick cards total.
+Adjust rules to account for players with multiple heroes.
+
+COSMETIC ISSUES:
+Make the backs of the area tiles look like collapsed areas
+Clock deck back should show an image of the clock
+Reprint Areas: Hangar, Palace, Academy
+Need means in addition to color for distinguishing golems.
+	Current player & golem colors (RGB)
+		Violet 133, 56, 204
+		Blue 45, 128, 255
+		Red 255, 0, 0
+		Green 0, 255, 0
+		Orange 255, 153, 0
+		Yellow 255, 255, 0
+Associate heroes with gemstones of different colors and shapes
+	Garnet (rounded triangle), Amethyst (hexagon), Emerald (rectangle with cut corners), Citrine (rounded square), Sapphire (oval)
+See if TGC has a larger hex tile size we can use
+
+CONCERNS:
+Are there too many actions per turn?
+Should we reduce the number of skulks?
+How long does the game take to play? Seems to be about 2 hours.
+Are there enough ways to obtain a new golem if yours is lost?
+Can we provide a painful way of gaining an extra action on your turn, reflecting some heroic effort?
+Are people having to explore far enough from the Hangar to get to all the clue areas?
+Would "Pilot" be more clear than "Hero"?
+Having things be hidden adds lots of targeting rolls that seem to slow the game.
+	But players don't seem to mind. And just adding a penalty to hit doesn't affect _all_ actions, and can make hitting impossible instead of just harder
+Should carried creatures get a penalty to attack?
+Is there enough time pressure?
+	Every cycle through the Clock deck, add a Tock card. When you draw a Tock, roll to see if you must draw a Doom card.
+Does rubble add enough interest to the game to justify the complexity it causes?
+Is the Tick mechanism doing enough to scale the difficulty according to player desire and the number of players?
+	Consider the number of actions per turn, as well as the number of turns, to scale difficulty and number of players.
+Is it clear enough that "nearest largest enemy" means that a smaller nearer enemy is selected over a larger farther enemy?
+
+IDEAS:
+Should you be able to spend an extra action during a Move to avoid a selected enemy?
+Should guard golems be able to recharge?
+Add a Tunnel discovery card
+Provide an achievement checklist
+	Winning the game with all heroes surviving.
+Would it improve the game to combine golem energy and health somehow?
+
+
+	

@@ -1,0 +1,24 @@
+DOOMED ATLANTIS - Setup Instructions
+A fully cooperative tactical adventure game for two to five adventurers.
+
+COMPONENTS
+[List the game bits.]
+
+SETUP
+Shuffle the Discovery and Doom decks and set them within reach.
+
+Prepare a space for area tiles.
+	Place the Start area face-up in the center.
+		Follow any directions on the tile.
+	Deal out four stacks of gray area tiles, face-down.
+		Add a random green area tile to each stack, face-down, and shuffle each stack.
+		Stack the stacks together. Put the tallest stack on top, if applicable.
+		
+Set the Doom clock to XII.
+Build the Atlantis deck in numeric order.
+	Start only with those cards marked with an asterisk (*).
+	Set the Atlantis deck, face-up, next to the Doom clock.
+
+Put the Field Guide pages with asterisks into the Field Guide binder.
+	Make sure the other Field Guide pages are in the reserve binder.
+		Put applicable Atlantis cards and components in the sleeves for their pages.
