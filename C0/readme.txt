@@ -1,1 +1,1 @@
-This is just to create a chapter 0 subdirectory.
+Subdirectory for files specific to Chapter 0 interactive tutorial.
